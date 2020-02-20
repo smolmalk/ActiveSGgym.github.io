@@ -96,6 +96,8 @@ img {
 <h2> How To Get Here </hr>
 <br>
 <br>
+<a href="https://www.google.com/maps/place/Clementi+ActiveSG+Gym/@1.310944,103.765005,15z/data=!4m2!3m1!1s0x0:0x37e5a984c38ab60c?sa=X&ved=2ahUKEwiXpsrAuN_nAhUWyjgGHZOgAXAQ_BIwEnoECA8QCA" title="Google Maps">
 <img src="mapgym.jpg" alt="map location google maps" style="width:50%">
+</a>
 </body>
 </html>
