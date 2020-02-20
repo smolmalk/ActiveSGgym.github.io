@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFA07A;
+	position:-webkit-sticky;
+	position:sticky;
+	top:0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #778899;
+}
+.active{
+	background-color:#DB7093;
+}
+video{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p span{
+	text-align: justify;
+}
+p{
+	margin:auto
+	width:100%;
+	font-family:"Antique Olive","Lucida Sans Unicode", sans-serif;
+}
+div {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+.container {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+  transform: rotate(45deg) translate(-8px, -8px);
+}
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a class="active" href="page2.html">Gallery</a></li>
+  <li><a href="page3.html">Booking</a></li>
+  <li><a href="page4.html">Location</a></li>
+  <li style="float:right"><div></div>
+			  <div></div>
+			  <div></div>
+  </li>
+</ul>
+
+<h1 style="text-align:center;"> Clementi ActiveSG Gym </h1>
+<br>
+<br>
+<h2> Exercises You can Do <h2>
+<br>
+<br>
+<p style="text-align:center;"> The videos below illustrate the different exercises you can do in Clementi ActiveSG Gym using the equipments provided there. </p>
+<br>
+<br>
+<video width="600" height="350" controls>
+	<source src="spot_trim.mp4" type="video/mp4">
+	Your browser does not support this MP4 file.
+</video>
+<br>
+<br>
+<p style="text-align:center;"> The video above illustrates an exercise called bench press that you can do at the gym. You will definitely need a friend to assist in "spotting" while you carry out exercises such as the above video so as to avoid any injuries. 
+<br>
+<br>
+</body>
+</html>
