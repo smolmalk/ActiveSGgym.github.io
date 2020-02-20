@@ -91,6 +91,6 @@ div {
 <h2> How To Get Here </hr>
 <br>
 <br>
-<img src="mapgym.jpg" alt="map location google maps" width="104" height="142">
+<img src="mapgym.jpg" alt="map location google maps" width="600px" height="350px">
 </body>
 </html>
