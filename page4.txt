@@ -70,6 +70,11 @@ div {
   -webkit-transform: rotate(45deg) translate(-8px, -8px);
   transform: rotate(45deg) translate(-8px, -8px);
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 </head>
 <body>
@@ -91,6 +96,6 @@ div {
 <h2> How To Get Here </hr>
 <br>
 <br>
-<img src="mapgym.jpg" alt="map location google maps" width="600px" height="350px">
+<img src="mapgym.jpg" alt="map location google maps" style="width:50%">
 </body>
 </html>
