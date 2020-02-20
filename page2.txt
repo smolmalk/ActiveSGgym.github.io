@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html style="font-family:"Antique Olive","Lucida Sans Unicode", sans-serif;">
 <head>
 <style>
 ul {
@@ -42,7 +42,6 @@ p span{
 p{
 	margin:auto
 	width:100%;
-	font-family:"Antique Olive","Lucida Sans Unicode", sans-serif;
 }
 div {
   width: 35px;
