@@ -94,7 +94,7 @@ table, th, td {
   </li>
 </ul>
 
-<h1 style="text-align:center;"> Active SG Gym </h1>
+<h1 style="text-align:center;"> Clementi ActiveSG Gym </h1>
 <br>
 <br>
 <h2> Booking Rates <h2>
